@@ -1,0 +1,5 @@
+# Ignore access files to Bloomberg's API
+bloomberg_api_access/
+
+# Ignore database location
+nodejs_server/data

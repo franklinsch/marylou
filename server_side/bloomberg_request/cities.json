@@ -1,0 +1,65 @@
+[
+{
+"city": "Tokyo", 
+"index": "RHOTTYPU Index", 
+"geo": "35.6895, 139.6917", 
+"country": "Japan"
+}
+,
+{
+"city": "London", 
+"index": "RHOTLDPU Index", 
+"geo": "51.5072, -0.1275", 
+"country": "United Kingdom"
+}
+,
+{
+"city": "Paris", 
+"index": "RHOTPRPU Index", 
+"geo": "48.8567, 2.3508", 
+"country": "France"}
+,
+{
+"city": "Shanghai", 
+"index": "RHOTSHPU Index", 
+"geo": "31.2000, 121.5000", 
+"country": "China"
+}
+,
+{
+"city": "Berlin", 
+"index": "RHOTBNPU Index", 
+"geo": "52.5167, 13.3833", 
+"country": "Germany"}
+,
+{
+"city": "Madrid", 
+"index": "RHOTMDPU Index", 
+"geo": "340.4000, -3.6833", 
+"country": "Spain"}
+,
+{
+"city": "Munich", 
+"index": "RHOTMHPU Index", 
+"geo": "48.1333, 11.5667", 
+"country": "Germany"}
+,
+{
+"city": "MIAMI", 
+"index": "RHOTMIPU Index", 
+"geo": "25.7877, -80.2241", 
+"country": "USA"}
+,
+{
+"city": "Moscow", 
+"index": "RHOTMWPU Index", 
+"geo": "55.7500, 37.6167", 
+"country": "Russia"}
+,
+{
+"city": "Stockholm", 
+"index": "RHOTSKPU Index", 
+"geo": "59.3294, 18.0686", 
+"country": "Sweden"
+}
+]

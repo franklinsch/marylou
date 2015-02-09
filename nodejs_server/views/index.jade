@@ -1,0 +1,24 @@
+extends layout
+
+block content
+  h1 #{username}
+
+  h1 Options for your perfect destination
+  div.content
+    form(action='/optrequest', name='Options', id='opt', method='post')
+    fieldset
+    p
+    label(for='safety') Safety (0-10):
+    br
+    input(name='safety', type='text', value='Safety Level', id='safety')
+    p
+    label(for='price') Price (0-10):
+    br
+    input(name='price', type='text', value='Price Level', id='price')
+    p
+    label(for='weather') Weather (0 for rain - 10 for sun) Weather:
+    br
+    input(name='weather', type='text', value='Weather Quality', id='weather')
+    p
+    input(name='submit', type='submit', value='Send', id='submit') 
+    
