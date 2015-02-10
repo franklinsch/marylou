@@ -4,7 +4,7 @@ Created by Franklin Schrans (iOS developer), Freddie Lindsey (NodeJS, Express, S
 ## Components
 
 - Server : NodeJS using the Express framework
-- Frontend (iOS) : Written in Swift
+- Frontend (iOS) : Written in Swift ([link](http://github.com/franklinsch/marylouios))
   - Collects data from our server using HTTP Requests and JSON (De-)Serialization
   - Shows the results as per user parameters using Apple Maps
 
